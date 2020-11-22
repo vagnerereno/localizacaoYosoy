@@ -2,8 +2,6 @@
 
 <h2> Android application to perform practical experiments on the MQTT and CoAP protocols with DES, TEA, AES128 and AES256 security mechanisms</h2>
 
-Siga as instruções a seguir para obter uma cópia do projeto.
-
 <b><h3> Follow the instructions below to obtain a copy of the project. </h3></b>
 
 → You will need the following components:
